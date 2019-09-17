@@ -20,3 +20,6 @@
 
 ## 今回の成果
 
+ * VRMをthree.jsで動かす前にVRMのメタデータを抽出するWeb APIと各種ドキュメントとデモページ一色を作った。プロジェクトは[こちら](https://github.com/TakuKobayashi/NodeVrmMetaRipper)、デモページは[こちら](https://takukobayashi.github.io/NodeVrmMetaRipper/)よかったら使ってみてください。
+
+ * 
